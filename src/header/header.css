@@ -1,0 +1,23 @@
+.wrapper { 
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10rem;
+}
+
+.calc {
+    display: flex;
+    justify-content: flex-start;
+    width: 10rem;
+    font-size: 2rem;
+    font-weight: bold;
+    height: 100%;
+}
+
+.theme-swap {
+    display: flex;
+    justify-content: flex-end;
+    width: 10rem;
+    height: 100%;
+}
